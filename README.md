@@ -15,6 +15,8 @@ This repository implements a novel multi-model fusion approach for wildlife clas
 
 ## 🔍 Model Architecture
 
+![Model Architecture](https://github.com/user-attachments/assets/a039e5a7-ffeb-4150-80fb-95d5478a00eb)
+
 Our approach consists of three main components:
 
 1. *🕵 Animal Detection*: Using MegaDetectorV6 to precisely locate and crop animal regions
