@@ -1,6 +1,6 @@
 # 🦁 Multi-Model Fusion with Cross-Attention for Wildlife Classification 🐻
 
-[![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![GitHub license](https://img.shields.io/badge/License-APACHE-blue.svg)](LICENSE)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.10%2B-orange)](https://pytorch.org/)
 
 ## 📊 Project Overview
