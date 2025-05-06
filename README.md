@@ -64,7 +64,7 @@ If you find this project useful in your research, please consider citing:
 bibtex
 @article{talha2025multimodel,
   title={Multi-Model Fusion with Cross-Attention for Wildlife Classification},
-  author={Talha, Muhammad and Ahmed, Uzair},
+  author={Talha , Uzair},
   journal={arXiv preprint arXiv:2505.00000},
   year={2025}
 }
